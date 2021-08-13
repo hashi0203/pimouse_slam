@@ -14,6 +14,6 @@
         <param name="str" value="0.1"/>  <!-- 直進 1m   あたりの回転方向の誤差 [rad] -->
         <param name="stt" value="0.3"/>  <!-- 回転 1rad あたりの回転方向の誤差 [rad] -->
 
-        <param name="particles" value="100"/>
+        <param name="particles" value="1000"/>
     </node>
 </launch>
