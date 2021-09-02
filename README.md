@@ -9,7 +9,7 @@
 
 ## 0. Prepare
 
-If you haven't install ROS, execute the following commands.
+If you haven't installed ROS, execute the following commands.
 
 ```bash
 $ cd ~
@@ -18,7 +18,7 @@ $ cd ros_setup_scripts_Ubuntu18.04_server/
 $ source ~/.bashrc
 ```
 
-If you haven't create catkin workspace, execute the following commands.
+If you haven't created catkin workspace, execute the following commands.
 
 ```bash
 $ mkdir -p ~/catkin_ws/src
