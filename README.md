@@ -15,6 +15,7 @@ If you haven't installed ROS, execute the following commands.
 $ cd ~
 $ git clone https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu18.04_server
 $ cd ros_setup_scripts_Ubuntu18.04_server/
+$ ./step1.bash
 $ source ~/.bashrc
 ```
 
